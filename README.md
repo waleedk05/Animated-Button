@@ -119,7 +119,7 @@ This component uses:
 - `react`
 - `react-router-dom` (for internal routing support)
 - `gsap` (for animations)
-
+[!NOTE]
 Make sure to install these dependencies in your project:
 
 ```bash
