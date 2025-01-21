@@ -1,3 +1,4 @@
+[Version](V1.0.0) [GSAP](https://gsap.com/)
 # Animated Button Component
 
 This repository contains a reusable React button component with GSAP-powered animations. The button supports multiple use cases, including internal routing with React Router and external links. It is fully customizable with props and provides a sleek hover animation effect.
@@ -97,11 +98,12 @@ export default App;
 ## Styling
 
 The component uses a CSS file (`AnimatedButton.css`) for styling. You can customize the styles as needed.
-The colors can be changed using these variables in css file 
-:root {
+The colors can be changed using these variables in css file:
+
+(':root {
   --primary-color: #055c22;
   --secondary-color: #fff;
-}
+}')
 
 
 
