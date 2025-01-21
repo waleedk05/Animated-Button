@@ -6,7 +6,8 @@ This repository contains a reusable React button component with GSAP-powered ani
 
 ## Preview
 
-![AnimatedButton](https://github.com/user-attachments/assets/90ebfb56-9f4c-48bc-b1e3-8f1164cdfa10)
+![AnimatedButton](https://github.com/user-attachments/assets/b89c09cf-1e23-444b-9040-31f4c8c0d962)
+
 
 ---
 
