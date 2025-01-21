@@ -4,6 +4,12 @@ This repository contains a reusable React button component with GSAP-powered ani
 
 ---
 
+## Preview
+
+![AnimatedButton](https://github.com/user-attachments/assets/90ebfb56-9f4c-48bc-b1e3-8f1164cdfa10)
+
+---
+
 ## Features
 - Smooth GSAP animations for hover effects.
 - Supports routing with React Router (`to` prop).
