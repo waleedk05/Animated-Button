@@ -96,6 +96,11 @@ export default App;
 ## Styling
 
 The component uses a CSS file (`AnimatedButton.css`) for styling. You can customize the styles as needed.
+The colors can be changed using these variables in css file 
+:root {
+  --primary-color: #055c22;
+  --secondary-color: #fff;
+}
 
 
 
