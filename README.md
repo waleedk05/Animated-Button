@@ -1,7 +1,7 @@
 
 [![Button Example]][Link]
 <!----------------------------------------------------------------------------->
-[Link]: # 'https://gsap.com/'
+[Link]: https://gsap.com/
 <!---------------------------------[ Buttons ]--------------------------------->
 [Button Example]: https://img.shields.io/badge/GSAP-37a779?style=for-the-badge
 
