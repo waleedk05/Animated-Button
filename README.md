@@ -1,4 +1,10 @@
-[Version](V1.0.0) [GSAP](https://gsap.com/)
+
+[![Button Example]][Link]
+<!----------------------------------------------------------------------------->
+[Link]: # 'https://gsap.com/'
+<!---------------------------------[ Buttons ]--------------------------------->
+[Button Example]: https://img.shields.io/badge/GSAP-37a779?style=for-the-badge
+
 # Animated Button Component
 
 This repository contains a reusable React button component with GSAP-powered animations. The button supports multiple use cases, including internal routing with React Router and external links. It is fully customizable with props and provides a sleek hover animation effect.
